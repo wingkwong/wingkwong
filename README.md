@@ -1,6 +1,6 @@
 # Wing-Kam WONG - @wingkwong 👋
 
-Big 4 Consultant / Open Source Contributor / Competitive Programmer
+Big 4 Consultant / Open Source Contributor / Civic Hacker / Competitive Programmer
 
 - 🔭 I’m currently working on a Python Spark application on Amazon EMR and Azure Databricks
 - 🌱 I’m currently learning Cloud Native, Graph Theory & Number Theory
