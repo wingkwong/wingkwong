@@ -39,9 +39,13 @@ Big 4 Consultant / Open Source Contributor / Civic Hacker / Competitive Programm
 
 and more ...
 
+## Github Stats
+
+![Wing-Kam's Github Stats](https://github-readme-stats.vercel.app/api?username=wingkwong&show_icons=true&hide_border=true)
 
 ## Get in touch 
 
+<div>
 <a href="https://twitter.com/wingk_wong">
   <img align="left" alt="wingkwong's Twitter" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
 </a>
@@ -51,5 +55,4 @@ and more ...
 <a href="https://dev.to/wingkwong/">
   <img align="left" alt="wingkwong's DEV" src="https://img.icons8.com/ios-filled/50/000000/devpost.png"/>
 </a>
-
-![Wing-Kam's Github Stats](https://github-readme-stats.vercel.app/api?username=wingkwong&show_icons=true&hide_border=true)
+</div>
