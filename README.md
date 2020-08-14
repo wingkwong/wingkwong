@@ -43,6 +43,10 @@ and more ...
 
 ![Wing-Kam's Github Stats](https://github-readme-stats.vercel.app/api?username=wingkwong&show_icons=true&hide_border=true)
 
+## You are visitor
+
+<img src="https://profile-counter.glitch.me/wingkwong/count.svg" alt="" />
+
 ## Get in touch 
 
 <div>
