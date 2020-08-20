@@ -2,7 +2,7 @@
 
 Big 4 Consultant / Open Source Contributor / Civic Hacker / Competitive Programmer
 
-- 🔭 I’m currently working on a Python Spark application on Amazon EMR and Azure Databricks
+- 🔭 I’m currently trying to solve all the questions on CSES and Timus
 - 🌱 I’m currently learning Cloud Native, Graph Theory & Number Theory
 - ⚡ Fun fact: I'm one of the most active GitHub users in Hong Kong
 
