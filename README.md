@@ -41,6 +41,7 @@ and more ...
 
 ## Github Stats
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wingkwong&layout=compact)
 ![Wing-Kam's Github Stats](https://github-readme-stats.vercel.app/api?username=wingkwong&show_icons=true&hide_border=true)
 
 ## You are visitor
