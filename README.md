@@ -1,8 +1,7 @@
 # Wing-Kam WONG - @wingkwong 👋
 
-Big 4 Consultant / Open Source Contributor / Civic Hacker / Competitive Programmer
+Big 4 Consultant / Open Source Contributor / Civic Hacker 
 
-- 🔭 I’m currently trying to solve all the questions on CSES and Timus
 - 🌱 I’m currently learning Cloud Native, Graph Theory & Number Theory
 - ⚡ Fun fact: I'm one of the most active GitHub users in Hong Kong
 
