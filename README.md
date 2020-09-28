@@ -2,7 +2,7 @@
 
 Big 4 Consultant / Open Source Contributor / Civic Hacker 
 
-- 🌱 I’m currently learning Cloud Native, Graph Theory & Number Theory
+- 🌱 I’m currently learning Cloud Native & Serverless
 - ⚡ Fun fact: I'm one of the most active GitHub users in Hong Kong
 
 ## Languages and Tools
