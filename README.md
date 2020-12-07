@@ -38,6 +38,12 @@ Big 4 Consultant / Open Source Contributor / Civic Hacker
 
 and more ...
 
+## Competitive Coding Profile ##
+[![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/wingkwong)	
+[![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/richmaskus/)
+[![Codechef](https://img.shields.io/badge/-Codechef-909090?style=flat&labelColor=909090&logo=Codechef&logoColor=white)](https://www.codechef.com/users/richmaskus)
+[![CodeForces](https://img.shields.io/badge/-CodeForces-ec6161?style=flat&labelColor=ec6161&logo=CodeForces&logoColor=white)](https://codeforces.com/profile/richmaskus)
+
 ## Github Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wingkwong&layout=compact)
@@ -52,8 +58,5 @@ and more ...
 <div>
 <a href="https://twitter.com/wingk_wong">
   <img align="left" alt="wingkwong's Twitter" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
-</a>
-<a href="https://dev.to/wingkwong/">
-  <img align="left" alt="wingkwong's DEV" src="https://img.icons8.com/ios-filled/50/000000/devpost.png"/>
 </a>
 </div>
