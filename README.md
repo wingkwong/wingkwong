@@ -9,7 +9,7 @@
 
 <hr/>
 
-I'm an OSS enthusiast spending most of the time working on different kinds of OSS products. I'm also a core member of **[NocoDB](https://github.com/nocodb/nocodb)**. Apart from that, I've also contributed `@aws`, `@awslabs`, `@aws-samples`, `@aws-cdk-examples`, `@cli`, `@vlang`, `@moby`, `@cortexlabs`, `@MicrosoftDocs`, `@Vote4.hk`, `@OurLandHK`, `@g0vhk-io` and more individuals. 
+I'm an OSS enthusiast spending most of the time working on different kinds of OSS products. I'm also a core member of **[NocoDB](https://github.com/nocodb/nocodb)**. Apart from that, I've also contributed `@aws`, `@awslabs`, `@aws-samples`, `@aws-cdk-examples`, `@cli`,  `@nocodb`, `@undb-xyz`, `@vlang`, `@moby`, `@cortexlabs`, `@MicrosoftDocs`, `@Vote4.hk`, `@OurLandHK`, `@g0vhk-io` and more individuals. 
 
 Here's some of my personal projects I work on my spare time.
 
